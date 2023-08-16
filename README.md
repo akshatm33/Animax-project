@@ -1,1 +1,1 @@
-# Animax-project
+# Animax project
